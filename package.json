@@ -1,0 +1,29 @@
+{
+  "name": "unit-test-course",
+  "version": "1.0.0",
+  "description": "follow udemy course https://www.udemy.com/course/unit-testing-typescript-nodejs/",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tonia-SE/unit-test-course.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tonia-SE/unit-test-course/issues"
+  },
+  "homepage": "https://github.com/Tonia-SE/unit-test-course#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/jest": "27.0.3",
+    "@types/node": "16.11.12",
+    "jest": "27.4.4",
+    "ts-jest": "27.1.1",
+    "ts-node": "10.4.0",
+    "typescript": "4.5.3"
+  }
+}
